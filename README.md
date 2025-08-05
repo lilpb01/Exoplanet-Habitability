@@ -37,6 +37,7 @@ This project uses real exoplanet data to classify whether a planet is potentiall
 
 ## 📊 Tableau Dashboard
 
+
 The interactive Tableau dashboard includes:
 - KPIs:
   - Total planets
@@ -47,7 +48,7 @@ The interactive Tableau dashboard includes:
 - Scatter plots showing feature interactions (e.g., star temp vs. radius)
 
 📷 **Preview**:  
-![Dashboard Screenshot](reports/dashboard_screenshot.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
