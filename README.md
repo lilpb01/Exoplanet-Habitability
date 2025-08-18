@@ -1,10 +1,10 @@
-# 🌍 Exoplanet Habitability Prediction with Machine Learning and Tableau
+#  Exoplanet Habitability Prediction with Machine Learning and Tableau
 
 This project uses real exoplanet data to classify whether a planet is potentially habitable based on astrophysical features. The workflow includes data cleaning, exploratory data analysis (EDA), machine learning modeling, and visualization through Tableau dashboards.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 - **Goal**: Predict whether an exoplanet is in the habitable zone using a classification model
 - **Data Source**: [exoplanet.eu](https://exoplanet.eu/)
@@ -14,7 +14,7 @@ This project uses real exoplanet data to classify whether a planet is potentiall
 
 ---
 
-## 🧠 Model Summary
+##  Model Summary
 
 | Detail              | Value               |
 |---------------------|---------------------|
@@ -26,7 +26,7 @@ This project uses real exoplanet data to classify whether a planet is potentiall
 ---
 
 
-## 🔍 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 - Feature distributions segmented by habitability
 - Handling of missing values and normalization
@@ -35,7 +35,7 @@ This project uses real exoplanet data to classify whether a planet is potentiall
 
 ---
 
-## 📊 Tableau Dashboard
+##  Tableau Dashboard
 
 
 The interactive Tableau dashboard includes:
@@ -47,7 +47,7 @@ The interactive Tableau dashboard includes:
 - Bar charts comparing habitable vs non-habitable distributions
 - Scatter plots showing feature interactions (e.g., star temp vs. radius)
 
-📷 **Preview**:  
+ **Preview**:  
 ![Dashboard Screenshot](Dashboard.png)
 
 ---
